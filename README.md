@@ -1,5 +1,5 @@
 # Desafio I2A2 - Analisador de Dados com RAG
-Analisador de Dados de Fraude em Cartão de Crédito desenvolvido como parte do desafio extra do curso de agentes inteligentes de IA Generativa do [Instituto I2A2](https://www.i2a2.academy/).
+Analisador de Dados de Fraude em Cartão de Crédito com RAG (Retrieval Augmented Generation) e agentes inteligentes desenvolvido como parte do desafio extra do curso de agentes inteligentes de IA Generativa do [Instituto I2A2](https://www.i2a2.academy/).
 - Recebe planilhas em formato .csv ou .xlsx compactados em .zip
 - Tokeniza os dados localmente, para RAG (Retrieval Augmented Generation)
 - Por fim se pode questionar um `agente inteligente` para obter informações sobre os dados.
@@ -70,6 +70,9 @@ streamlit run main.py
         # Código principal da aplicação
 
 ```
+
+## 📝 Licença
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes, veja o arquivo [LICENSE](LICENSE).
 
 ## 🎓 Créditos
 
