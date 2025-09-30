@@ -1,0 +1,7 @@
+from agents.agente_limpeza_dados import agente_limpeza_dados
+from agents.agente0 import agente0_clarifica_pergunta
+from agents.agente1 import agente1_identifica_arquivos
+from agents.agente1 import agente1_interpreta_contexto_arquivo
+from agents.agente1 import agente1_processa_arquivo_chunk
+from agents.agente2 import agente2_gera_codigo_pandas_eda
+from agents.agente3 import agente3_formatar_apresentacao

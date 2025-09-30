@@ -1,0 +1,1 @@
+from sandboxing.executa_codigo_seguro import executa_codigo_seguro
