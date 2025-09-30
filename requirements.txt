@@ -77,6 +77,7 @@ smmap
 sniffio
 streamlit
 sympy
+tabulate
 tenacity
 threadpoolctl
 tokenizers
